@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="264769" started-at="2020-08-09T13:35:12 IST" finished-at="2020-08-09T13:39:37 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="264769" started-at="2020-08-09T13:35:12 IST" finished-at="2020-08-09T13:39:37 IST">
+      <class name="test.DeductionTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:test.DeductionTest@167fdd33]" name="beforeTest" is-config="true" duration-ms="14243" started-at="2020-08-09T13:35:12 IST" finished-at="2020-08-09T13:35:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="login()[pri:0, instance:test.DeductionTest@167fdd33]" name="login" duration-ms="4972" started-at="2020-08-09T13:35:26 IST" finished-at="2020-08-09T13:35:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-08-09T13:35:31 IST" finished-at="2020-08-09T13:35:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="job()[pri:1, instance:test.DeductionTest@167fdd33]" name="job" duration-ms="73516" started-at="2020-08-09T13:35:31 IST" finished-at="2020-08-09T13:36:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- job -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-08-09T13:36:45 IST" finished-at="2020-08-09T13:36:45 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="deduction()[pri:2, instance:test.DeductionTest@167fdd33]" name="deduction" duration-ms="11505" started-at="2020-08-09T13:36:45 IST" finished-at="2020-08-09T13:36:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deduction -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="2" started-at="2020-08-09T13:36:56 IST" finished-at="2020-08-09T13:36:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="product()[pri:3, instance:test.DeductionTest@167fdd33]" name="product" duration-ms="46067" started-at="2020-08-09T13:36:56 IST" finished-at="2020-08-09T13:37:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- product -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-08-09T13:37:42 IST" finished-at="2020-08-09T13:37:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="profile()[pri:4, instance:test.DeductionTest@167fdd33]" name="profile" duration-ms="38014" started-at="2020-08-09T13:37:42 IST" finished-at="2020-08-09T13:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- profile -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="1" started-at="2020-08-09T13:38:20 IST" finished-at="2020-08-09T13:38:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="supply()[pri:5, instance:test.DeductionTest@167fdd33]" name="supply" duration-ms="75691" started-at="2020-08-09T13:38:20 IST" finished-at="2020-08-09T13:39:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- supply -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterMethod" is-config="true" duration-ms="0" started-at="2020-08-09T13:39:36 IST" finished-at="2020-08-09T13:39:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:test.DeductionTest@167fdd33]" name="afterTest" is-config="true" duration-ms="659" started-at="2020-08-09T13:39:36 IST" finished-at="2020-08-09T13:39:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- test.DeductionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
